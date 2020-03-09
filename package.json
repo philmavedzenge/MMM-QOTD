@@ -1,0 +1,25 @@
+{
+  "name": "mmm-qotd",
+  "version": "1.0.0",
+  "description": "Package for Quote of the day (branham.org)",
+  "main": "MMM-QOTD.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/philmavedzenge/MMM-QOTD.git"
+  },
+  "author": "Philmavedzenge",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/philmavedzenge/MMM-QOTD/issues"
+  },
+  "homepage": "https://github.com/philmavedzenge/MMM-QOTD#readme",
+  "dependencies": {
+    "dependency": "0.0.1",
+    "axios": "^0.19.2",
+    "cheerio": "^1.0.0-rc.3",
+    "html-entities": "^1.2.1"
+  }
+}

@@ -1,0 +1,36 @@
+/* Copy and paste any or all of these css entries into your custom.css file inside your
+ * css folder. The functions are annotated to make things as easy as possible for you.
+ * Use any colors you want! Go to - "http://htmlcolorcodes.com/color-picker/"
+ * Pick your color, copy and paste the HEX number. Example - #62FF00 = bright green.
+ */
+ 
+.MMM-QOTD .header{
+  color: white;               /* Header color. Default is white. */
+  text-align: left;           /* Align header text. (left, center, right) */
+}
+
+.MMM-QOTD .scripture {
+  color: #6a0dad;               /* Color the date. Default is white. */
+  text-align: right;
+}
+
+.MMM-QOTD .scriptureText {
+  color: #ffa64d;               /* Color the date. Default is white. */
+  text-align: right;
+  
+}
+
+.MMM-QOTD .messageDate {
+  color: #4da5ff;              /* Color possible duration. Default is white. */
+  font-size: 150%;
+}
+
+.MMM-QOTD .messageTitle {
+  color: #900c3f;               /* Color possible duration. Default is white. */
+  font-size: 150%;
+}
+
+.MMM-QOTD .messageText {
+  color: #ffa64d;               /* Color possible summary. Default is white. */
+  text-align: center;
+}
