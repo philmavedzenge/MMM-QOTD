@@ -9,7 +9,7 @@ Quote of the day is based on MMM-UFO but it displays QuoteOfTheDay from branham.
 
 ## Config.js entry and options
 
-{
+`{
     module: 'MMM-QOTD',
     position: 'bottom_right',
     config: {
@@ -17,4 +17,4 @@ Quote of the day is based on MMM-UFO but it displays QuoteOfTheDay from branham.
 		initialLoadDelay: 1000,
 		maxWidth: "1100px"
     }
-},
+},`
