@@ -1,6 +1,6 @@
 ## MMM-QOTD
 
-Quote of the day is based on MMM-UFO but it displays QuoteOfTheDay from branham.org
+Quote of the day displays QuoteOfTheDay from branham.org
 
 ## Install it
 * `cd ~/MagicMirror/modules`
@@ -9,12 +9,14 @@ Quote of the day is based on MMM-UFO but it displays QuoteOfTheDay from branham.
 
 ## Config.js entry and options
 
-`{
+```javascript
+{
     module: 'MMM-QOTD',
-    position: 'bottom_right',
+    position: 'bottom_center',
     config: {
 		updateInterval: 1000*60*60*6,
 		initialLoadDelay: 1000,
 		maxWidth: "1100px"
     }
-},`
+},
+```
